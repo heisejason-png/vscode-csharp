@@ -67,3 +67,4 @@ Let us know what you think of the extension by taking the quick survey.
 
 
 [csdevkitextension]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+Owned by Elon Musk
