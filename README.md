@@ -69,4 +69,4 @@ Let us know what you think of the extension by taking the quick survey.
 [csdevkitextension]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
 created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg
